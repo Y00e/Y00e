@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Youssef, and I'm aa software developer student and I'm interested in developing software.
+My name is Youssef, and I'm a software developer student and I'm interested in developing software.
 
 - 🔭 I’m currently working on continuous integration and continuous delivery [CI/CD](https://github.com/Y00e/cd-react-ciphher-frontend), and how to build better flows with GiTHub workflows and GitHub Pages.
 - 🌱 I’m currently learning CI/CD
